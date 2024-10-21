@@ -5,15 +5,8 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true,
-        "venv": true,
-        ".vscode": true,
-        "LICENSE": true
+        "**/Thumbs.db": true
     },
-    "hide-files.files": [
-        "venv",
-        ".vscode",
-        "LICENSE"
-    ],
+    "hide-files.files": [],
     "files.eol": "\n"
 }
