@@ -8,14 +8,12 @@
         "**/Thumbs.db": true,
         "venv": true,
         ".vscode": true,
-        "LICENSE": true,
-        ".gitignore": true
+        "LICENSE": true
     },
     "hide-files.files": [
         "venv",
         ".vscode",
-        "LICENSE",
-        ".gitignore"
+        "LICENSE"
     ],
     "files.eol": "\n"
 }
