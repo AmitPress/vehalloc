@@ -5,14 +5,12 @@ from enum import Enum
 
 class VehicleType(Enum):
     car         = "car"
-    tempo       = "tempo"
-    bus         = "bus"
-    bike        = "bike"
-    microbus    = "microbus"
+    # tempo       = "tempo"
+    # bus         = "bus"
+    # bike        = "bike"
+    # microbus    = "microbus"
 
 class VehicleSchema(BaseModel, TimeStampedSchemaMixin):
     name: str
     registration: str 
-    driver_id: str = None
     vehicle_type: VehicleType
-    availability_status: AvailibiltyStatus
