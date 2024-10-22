@@ -1,11 +1,9 @@
 from utils.timestamped_schema import TimeStampedSchemaMixin
-from utils.common_options import AvailibiltyStatus
-from pydantic import BaseModel
 from enum import Enum
 
 class VehicleType(Enum):
     car         = "car"
-    # tempo       = "tempo"
+    # tempo       = "tempo" # lets keep it simple for now
     # bus         = "bus"
     # bike        = "bike"
     # microbus    = "microbus"
