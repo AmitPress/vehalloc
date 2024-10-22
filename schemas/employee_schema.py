@@ -14,7 +14,7 @@ class AllocationStatus(Enum):
     allocated   = "allocated"
     unallocated = "unallocated"
 
-class EmployeeSchema(BaseModel, TimeStampedSchemaMixin):
+class EmployeeSchema(TimeStampedSchemaMixin):
     service_id: UUID = Field(default_factory=uuid4)
     name: str
     age: int = Field(..., gt=0, le=100)

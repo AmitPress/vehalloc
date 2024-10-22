@@ -10,7 +10,7 @@ class VehicleType(Enum):
     # bike        = "bike"
     # microbus    = "microbus"
 
-class VehicleSchema(BaseModel, TimeStampedSchemaMixin):
+class VehicleSchema(TimeStampedSchemaMixin):
     name: str
     registration: str 
     vehicle_type: VehicleType
