@@ -4,13 +4,13 @@ from datetime import datetime
 from enum import Enum
 # from uuid import UUID, uuid4
 
-class Position(Enum):
+class Position(str, Enum):
     developer   = "developer"
     admin       = "admin"
     manager     = "manager"
     peon        = "peon"
     finance     = "finance"
-class AllocationStatus(Enum):
+class AllocationStatus(str, Enum):
     unallocated = "unallocated"
     allocated   = "allocated"
 
