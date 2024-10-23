@@ -1,0 +1,46 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    
+    ports:
+      - 5000:5000
+    
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - .:/app
+    # depends_on:
+    #   - mongodb
+    #   - redis
+    # networks:
+    #   - binding_network
+  
+  mongodb:
+    image: mongo:8.0.1
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_DATABASE: ${DB_NAME}
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASS}
+    ports:
+      - 27017:27017
+    volumes:
+      - mongo_data:/data/db
+      # - ./conf/docker-entrypoint-initdb.d/:/docker-entrypoint-initdb.d/:ro
+  
+  redis:
+    image: redis:7.4.1-bookworm
+    ports:
+      - 6379:6379
+    volumes:
+      - redis_data:/data
+
+volumes:
+  mongo_data:
+  redis_data:
+
+# networks:
+#   binding_network:
+#     driver: bridge

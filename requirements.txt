@@ -4,4 +4,6 @@ pydantic-settings
 uvicorn[standard]
 motor
 rq
+rq-dashboard
+redis
 httpx

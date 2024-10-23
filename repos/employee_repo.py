@@ -19,3 +19,17 @@ async def insert_employee(app: FastAPI, employee: EmployeeSchema):
         **employee_dict
     }
     return data
+async def get_employee(app: FastAPI, employee_id: str):
+    try:
+        result = await app.mongodb[EMPLOYEE_COLLECTION].find_one({"_id": ObjectId(employee_id)})
+    except Exception as e:
+        logger.error(f"Error getting employee: {e}")
+        return None
+    return result
+async def get_employees(app: FastAPI):
+    try:
+        results = await app.mongodb[EMPLOYEE_COLLECTION].find().to_list(length=100)
+    except Exception as e:
+        logger.error(f"Error getting employees: {e}")
+        return None
+    return results
