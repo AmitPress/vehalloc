@@ -1,7 +1,7 @@
 from utils.timestamped_schema import TimeStampedSchemaMixin
 from enum import Enum
 
-class VehicleType(Enum):
+class VehicleType(str, Enum):
     car         = "car"
     # tempo       = "tempo" # lets keep it simple for now
     # bus         = "bus"

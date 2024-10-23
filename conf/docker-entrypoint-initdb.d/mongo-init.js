@@ -1,6 +1,6 @@
 print('########### MONGO INIT DATABASE ###########');
-db = db.getSiblingDB('backend');
-db.createCollection('products');
-db.createCollection('users');
-db.createCollection('dailylogs');
-db.createCollection('monthlylogs');
+db = db.getSiblingDB('vehalloc');
+db.createCollection('allocations');
+db.createCollection('drivers');
+db.createCollection('employees');
+db.createCollection('vehicles');
