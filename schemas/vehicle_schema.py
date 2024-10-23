@@ -12,3 +12,4 @@ class VehicleSchema(TimeStampedSchemaMixin):
     name: str
     registration: str 
     vehicle_type: VehicleType
+    driver_id: str
