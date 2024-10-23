@@ -18,4 +18,9 @@ Here the folders are managed to have a better framework to work with. The naming
 * do `docker compose up --build` to rebuild the application
 [Note: Make sure the environment variables are set correctly in the `.env` file]
 
+#### Furthur Development and Deployment Plans
+* For a robust and secure application, we can use a combination of `JWT` and `OAuth2` for authentication and authorization.
+* We can use complex logic to allocate vehicles based on various other factors.
+* For deployment we can just use a basic `VPS` and deploy the application using `docker` and `docker-compose`.
+* In that case, we can use a `CI/CD` pipeline to automate the deployment process. And use nginx as a reverse proxy to serve the application.
 
