@@ -5,6 +5,7 @@ class EnvironmentVariables(BaseSettings):
     MONGO_PASS : str
     CONNECTION_STRING : str
     DB_NAME : str
+    REDIS_HOST : str
     class Config:
         env_file = '.env'
 
