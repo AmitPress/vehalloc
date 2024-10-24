@@ -1,12 +1,22 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from conf.logger import logger
+from optim.existance_checker import check_existance_employee
 from schemas.allocation_schema import AllocationSchema
 from bson import ObjectId
-
+from datetime import date 
 ALLOCATION_COLLECTION="allocations"
 
 async def insert_allocation(app: FastAPI, allocation: AllocationSchema):
     try:
+        if not (await check_existance_employee(app, allocation.employee_id)):
+            logger.error(f"Employee or vehicle does not exist")
+            raise HTTPException(status_code=400, detail="Employee or vehicle does not exist")
+        if allocation.allocated_date <= date.today():
+            raise HTTPException(status_code=400, detail="Allocated date cannot be in the past")
+        # TODO: check if employee is already allocated to a vehicle on a date
+
+        # TODO: get an available vehicle randomly
+
         allocation_dict = allocation.model_dump()
         result = await app.mongodb[ALLOCATION_COLLECTION].insert_one(allocation_dict)
     except Exception as e:

@@ -10,9 +10,9 @@ class Position(str, Enum):
     manager     = "manager"
     peon        = "peon"
     finance     = "finance"
-class AllocationStatus(str, Enum):
-    unallocated = "unallocated"
-    allocated   = "allocated"
+# class AllocationStatus(str, Enum):
+#     unallocated = "unallocated"
+#     allocated   = "allocated"
 
 class EmployeeSchema(TimeStampedSchemaMixin):
     # service_id: UUID = Field(default_factory=uuid4) # as of now lets ignore this for simplicity
@@ -20,4 +20,4 @@ class EmployeeSchema(TimeStampedSchemaMixin):
     age: int = Field(..., gt=0, le=100)
     inducted: datetime
     position: Position
-    vehicle_alloc_status: AllocationStatus
+    # vehicle_alloc_status: AllocationStatus

@@ -10,9 +10,10 @@ VEHICLE_COLLECTION = "vehicles"
 # insert vehicle data
 async def insert_vehicle(app: FastAPI, vehicle: VehicleSchema):
     try:
-        if not await check_existance_driver(app, vehicle.driver_id):
+        if not (await check_existance_driver(app, vehicle.driver_id)):
             logger.error(f"Driver with id {vehicle.driver_id} does not exist")
             raise HTTPException(detail="Driver does not exist", status_code=404)
+        
         vehicle_dict = vehicle.model_dump()
         result = await app.mongodb[VEHICLE_COLLECTION].insert_one(vehicle_dict)
     except Exception as e:
