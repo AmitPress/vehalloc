@@ -1,0 +1,833 @@
+2024-10-23 00:01:32,560 - [INFO] - Connection Closed Successfully
+2024-10-23 00:01:33,939 - [INFO] - Connected Successfully
+2024-10-23 00:01:33,939 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:06:19,109 - [INFO] - Connection Closed Successfully
+2024-10-23 00:07:10,141 - [INFO] - Connected Successfully
+2024-10-23 00:07:10,141 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:03,895 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:05,180 - [INFO] - Connected Successfully
+2024-10-23 00:12:05,180 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:06,350 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:07,246 - [INFO] - Connected Successfully
+2024-10-23 00:12:07,246 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:14,030 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:14,929 - [INFO] - Connected Successfully
+2024-10-23 00:12:14,929 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:35,081 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:40,117 - [INFO] - Connected Successfully
+2024-10-23 00:12:40,117 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:50,496 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:51,409 - [INFO] - Connected Successfully
+2024-10-23 00:12:51,409 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:12:52,259 - [INFO] - Connection Closed Successfully
+2024-10-23 00:12:55,130 - [INFO] - Connected Successfully
+2024-10-23 00:12:55,130 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:13:05,206 - [INFO] - Connection Closed Successfully
+2024-10-23 00:13:06,052 - [INFO] - Connected Successfully
+2024-10-23 00:13:06,052 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:13:11,170 - [INFO] - Connection Closed Successfully
+2024-10-23 00:13:50,342 - [INFO] - Connected Successfully
+2024-10-23 00:13:50,342 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:13:51,180 - [INFO] - Connection Closed Successfully
+2024-10-23 00:13:52,093 - [INFO] - Connected Successfully
+2024-10-23 00:13:52,093 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:13:55,790 - [INFO] - Connection Closed Successfully
+2024-10-23 00:13:56,639 - [INFO] - Connected Successfully
+2024-10-23 00:13:56,639 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:15:32,701 - [ERROR] - Failed To Delete Driver With Exception: 500: Record Is Not Deleted
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 77, in delete_drivers
+    raise HTTPException(status_code=500, detail="Record Is Not Deleted")
+fastapi.exceptions.HTTPException: 500: Record Is Not Deleted
+2024-10-23 00:43:58,184 - [INFO] - Connection Closed Successfully
+2024-10-23 00:47:14,736 - [INFO] - Connected Successfully
+2024-10-23 00:47:14,748 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:49:03,649 - [INFO] - Connection Closed Successfully
+2024-10-23 00:49:05,027 - [INFO] - Connected Successfully
+2024-10-23 00:49:05,027 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:49:09,414 - [INFO] - Connection Closed Successfully
+2024-10-23 00:49:10,256 - [INFO] - Connected Successfully
+2024-10-23 00:49:10,256 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:49:12,475 - [INFO] - Connection Closed Successfully
+2024-10-23 00:49:13,274 - [INFO] - Connected Successfully
+2024-10-23 00:49:13,274 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:49:16,333 - [INFO] - Connection Closed Successfully
+2024-10-23 00:49:17,209 - [INFO] - Connected Successfully
+2024-10-23 00:49:17,210 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:50:40,954 - [INFO] - Connection Closed Successfully
+2024-10-23 00:50:42,295 - [INFO] - Connected Successfully
+2024-10-23 00:50:42,295 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:50:46,649 - [INFO] - Connection Closed Successfully
+2024-10-23 00:50:47,558 - [INFO] - Connected Successfully
+2024-10-23 00:50:47,558 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:50:54,422 - [INFO] - Connection Closed Successfully
+2024-10-23 00:50:57,341 - [INFO] - Connected Successfully
+2024-10-23 00:50:57,341 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:50:58,633 - [INFO] - Connection Closed Successfully
+2024-10-23 00:50:59,575 - [INFO] - Connected Successfully
+2024-10-23 00:50:59,575 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:00,868 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:01,720 - [INFO] - Connected Successfully
+2024-10-23 00:51:01,720 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:04,845 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:05,741 - [INFO] - Connected Successfully
+2024-10-23 00:51:05,741 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:07,445 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:08,243 - [INFO] - Connected Successfully
+2024-10-23 00:51:08,243 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:13,649 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:14,434 - [INFO] - Connected Successfully
+2024-10-23 00:51:14,434 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:28,643 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:29,519 - [INFO] - Connected Successfully
+2024-10-23 00:51:29,519 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:31,414 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:32,225 - [INFO] - Connected Successfully
+2024-10-23 00:51:32,225 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:35,113 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:36,050 - [INFO] - Connected Successfully
+2024-10-23 00:51:36,050 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:37,104 - [INFO] - Connection Closed Successfully
+2024-10-23 00:51:38,024 - [INFO] - Connected Successfully
+2024-10-23 00:51:38,024 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:51:44,925 - [ERROR] - Failed To Delete Driver With Exception: 500: Record Is Not Deleted
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 67, in delete_driver
+    raise HTTPException(status_code=500, detail="Record Is Not Deleted")
+fastapi.exceptions.HTTPException: 500: Record Is Not Deleted
+2024-10-23 00:53:24,829 - [ERROR] - Failed To Delete Driver With Exception: 'dict' object has no attribute 'model_dump'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 75, in delete_drivers
+    result = await app.mongodb[DRIVER_COLLECTION].delete_many(filters.model_dump())
+                                                              ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'model_dump'
+2024-10-23 00:54:13,057 - [ERROR] - Failed To Delete Driver With Exception: 'dict' object has no attribute 'model_dump'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 75, in delete_drivers
+    result = await app.mongodb[DRIVER_COLLECTION].delete_many(filters.model_dump())
+                                                              ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'model_dump'
+2024-10-23 00:55:49,995 - [INFO] - Connection Closed Successfully
+2024-10-23 00:55:51,461 - [INFO] - Connected Successfully
+2024-10-23 00:55:51,468 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:55:53,574 - [INFO] - Connection Closed Successfully
+2024-10-23 00:55:54,427 - [INFO] - Connected Successfully
+2024-10-23 00:55:54,427 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:14,955 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:15,862 - [INFO] - Connected Successfully
+2024-10-23 00:56:15,863 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:31,304 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:32,100 - [INFO] - Connected Successfully
+2024-10-23 00:56:32,100 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:47,116 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:47,925 - [INFO] - Connected Successfully
+2024-10-23 00:56:47,925 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:52,063 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:52,904 - [INFO] - Connected Successfully
+2024-10-23 00:56:52,904 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:55,515 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:56,369 - [INFO] - Connected Successfully
+2024-10-23 00:56:56,369 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:56:58,529 - [INFO] - Connection Closed Successfully
+2024-10-23 00:56:59,333 - [INFO] - Connected Successfully
+2024-10-23 00:56:59,333 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:00,094 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:00,999 - [INFO] - Connected Successfully
+2024-10-23 00:57:00,999 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:08,495 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:09,306 - [INFO] - Connected Successfully
+2024-10-23 00:57:09,306 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:11,096 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:11,968 - [INFO] - Connected Successfully
+2024-10-23 00:57:11,968 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:12,606 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:13,377 - [INFO] - Connected Successfully
+2024-10-23 00:57:13,377 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:15,609 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:18,585 - [INFO] - Connected Successfully
+2024-10-23 00:57:18,585 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:19,518 - [INFO] - Connected Successfully
+2024-10-23 00:57:19,518 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:19,840 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:20,673 - [INFO] - Connected Successfully
+2024-10-23 00:57:20,673 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:57:22,565 - [INFO] - Connection Closed Successfully
+2024-10-23 00:57:23,342 - [INFO] - Connected Successfully
+2024-10-23 00:57:23,342 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 00:58:19,359 - [INFO] - Connection Closed Successfully
+2024-10-23 00:58:22,288 - [INFO] - Connected Successfully
+2024-10-23 00:58:22,288 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:00:20,174 - [INFO] - Connection Closed Successfully
+2024-10-23 01:00:21,166 - [INFO] - Connected Successfully
+2024-10-23 01:00:21,166 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:00:30,750 - [INFO] - Connection Closed Successfully
+2024-10-23 01:00:31,524 - [INFO] - Connected Successfully
+2024-10-23 01:00:31,524 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:01:18,356 - [INFO] - Connection Closed Successfully
+2024-10-23 01:01:19,156 - [INFO] - Connected Successfully
+2024-10-23 01:01:19,157 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:01:43,945 - [INFO] - Connection Closed Successfully
+2024-10-23 01:01:44,834 - [INFO] - Connected Successfully
+2024-10-23 01:01:44,834 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:01:46,825 - [INFO] - Connection Closed Successfully
+2024-10-23 01:01:58,975 - [INFO] - Connected Successfully
+2024-10-23 01:01:58,975 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:02:38,064 - [ERROR] - Failed To Create Employee With Exception: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\employee_repo.py", line 12, in create_employee
+    result = await app.mongodb[EMPLOYEE_COLLECTION].insert_one(employee.model_dump())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\miniconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 870, in insert_one
+    self._insert_one(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 810, in _insert_one
+    self._database.client._retryable_write(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1898, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1784, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\_csot.py", line 120, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2676, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 798, in _insert_command
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 45, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 566, in command
+    self._raise_connection_failure(error)
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 538, in command
+    return command(
+           ^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\network.py", line 158, in command
+    request_id, msg, size, max_doc_size = message._op_msg(
+                                          ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\message.py", line 415, in _op_msg
+    return _op_msg_uncompressed(flags, command, identifier, docs, opts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\bson\binary.py", line 272, in from_uuid
+    raise ValueError(
+ValueError: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+2024-10-23 01:05:49,864 - [INFO] - Connection Closed Successfully
+2024-10-23 01:05:53,399 - [INFO] - Connected Successfully
+2024-10-23 01:05:53,399 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:06:13,469 - [INFO] - Connection Closed Successfully
+2024-10-23 01:06:14,339 - [INFO] - Connected Successfully
+2024-10-23 01:06:14,339 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:06:22,014 - [ERROR] - Failed To Create Employee With Exception: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\employee_repo.py", line 12, in create_employee
+    result = await app.mongodb[EMPLOYEE_COLLECTION].insert_one(employee.model_dump())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\miniconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 870, in insert_one
+    self._insert_one(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 810, in _insert_one
+    self._database.client._retryable_write(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1898, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1784, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\_csot.py", line 120, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2676, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 798, in _insert_command
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 45, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 566, in command
+    self._raise_connection_failure(error)
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 538, in command
+    return command(
+           ^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\network.py", line 158, in command
+    request_id, msg, size, max_doc_size = message._op_msg(
+                                          ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\message.py", line 415, in _op_msg
+    return _op_msg_uncompressed(flags, command, identifier, docs, opts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\bson\binary.py", line 272, in from_uuid
+    raise ValueError(
+ValueError: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+2024-10-23 01:07:23,935 - [INFO] - Connection Closed Successfully
+2024-10-23 01:07:25,370 - [INFO] - Connected Successfully
+2024-10-23 01:07:25,370 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:07:28,289 - [ERROR] - Failed To Create Employee With Exception: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\employee_repo.py", line 12, in create_employee
+    result = await app.mongodb[EMPLOYEE_COLLECTION].insert_one(employee.model_dump())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\miniconda3\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 870, in insert_one
+    self._insert_one(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 810, in _insert_one
+    self._database.client._retryable_write(
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1898, in _retryable_write
+    return self._retry_with_session(retryable, func, s, bulk, operation, operation_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1784, in _retry_with_session
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\_csot.py", line 120, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+                                              ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\mongo_client.py", line 2676, in _write
+    return self._func(self._session, conn, self._retryable)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\collection.py", line 798, in _insert_command
+    result = conn.command(
+             ^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\helpers.py", line 45, in inner
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 566, in command
+    self._raise_connection_failure(error)
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\pool.py", line 538, in command
+    return command(
+           ^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\synchronous\network.py", line 158, in command
+    request_id, msg, size, max_doc_size = message._op_msg(
+                                          ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pymongo\message.py", line 415, in _op_msg
+    return _op_msg_uncompressed(flags, command, identifier, docs, opts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\bson\binary.py", line 272, in from_uuid
+    raise ValueError(
+ValueError: cannot encode native uuid.UUID with UuidRepresentation.UNSPECIFIED. UUIDs can be manually converted to bson.Binary instances using bson.Binary.from_uuid() or a different UuidRepresentation can be configured. See the documentation for UuidRepresentation for more information.
+2024-10-23 01:08:04,454 - [INFO] - Connection Closed Successfully
+2024-10-23 01:08:07,826 - [INFO] - Connected Successfully
+2024-10-23 01:08:07,826 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 01:13:23,245 - [INFO] - Connection Closed Successfully
+2024-10-23 02:12:52,621 - [INFO] - Connected Successfully
+2024-10-23 02:12:52,621 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:13:15,536 - [ERROR] - Failed To Upsert Driver With Exception: 'DriverSchema' object has no attribute '_id'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 835, in __getattr__
+    return self.__pydantic_private__[item]  # type: ignore
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: '_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 12, in upsert_driver
+    {"_id": driver._id},
+            ^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 837, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}') from exc
+AttributeError: 'DriverSchema' object has no attribute '_id'
+2024-10-23 02:13:43,423 - [INFO] - Connection Closed Successfully
+2024-10-23 02:17:12,712 - [INFO] - Connected Successfully
+2024-10-23 02:17:12,712 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:17:33,686 - [ERROR] - Failed To Upsert Driver With Exception: 'DriverSchema' object has no attribute '_id'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 835, in __getattr__
+    return self.__pydantic_private__[item]  # type: ignore
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+KeyError: '_id'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 12, in upsert_driver
+    {"_id": ObjectId(driver._id)},
+                     ^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 837, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}') from exc
+AttributeError: 'DriverSchema' object has no attribute '_id'
+2024-10-23 02:19:25,491 - [INFO] - Connection Closed Successfully
+2024-10-23 02:19:37,557 - [INFO] - Connected Successfully
+2024-10-23 02:19:37,557 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:19:40,506 - [INFO] - Connection Closed Successfully
+2024-10-23 02:19:41,316 - [INFO] - Connected Successfully
+2024-10-23 02:19:41,316 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:19:57,341 - [INFO] - Connection Closed Successfully
+2024-10-23 02:20:23,771 - [INFO] - Connected Successfully
+2024-10-23 02:20:23,772 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:20:27,972 - [INFO] - Connection Closed Successfully
+2024-10-23 02:20:30,871 - [INFO] - Connected Successfully
+2024-10-23 02:20:30,871 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:20:31,733 - [INFO] - Connected Successfully
+2024-10-23 02:20:31,733 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:20:32,566 - [INFO] - Connected Successfully
+2024-10-23 02:20:32,566 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:21:04,022 - [INFO] - Connection Closed Successfully
+2024-10-23 02:21:04,936 - [INFO] - Connected Successfully
+2024-10-23 02:21:04,938 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:22:10,286 - [INFO] - Connection Closed Successfully
+2024-10-23 02:22:16,384 - [INFO] - Connected Successfully
+2024-10-23 02:22:16,384 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:22:43,807 - [INFO] - Connection Closed Successfully
+2024-10-23 02:22:44,657 - [INFO] - Connected Successfully
+2024-10-23 02:22:44,657 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:23:46,127 - [INFO] - Connection Closed Successfully
+2024-10-23 02:23:46,985 - [INFO] - Connected Successfully
+2024-10-23 02:23:46,985 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:24:01,261 - [ERROR] - Failed To Upsert Driver With Exception: 'DriverSchema' object has no attribute '_id'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 12, in upsert_driver
+    {"_id": ObjectId(driver._id)},
+                     ^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 856, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'DriverSchema' object has no attribute '_id'. Did you mean: 'id'?
+2024-10-23 02:25:00,928 - [INFO] - Connection Closed Successfully
+2024-10-23 02:25:01,766 - [INFO] - Connected Successfully
+2024-10-23 02:25:01,766 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:27:01,827 - [INFO] - Connection Closed Successfully
+2024-10-23 02:27:02,688 - [INFO] - Connected Successfully
+2024-10-23 02:27:02,688 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:28:20,181 - [ERROR] - Failed To Upsert Driver With Exception: 'DriverSchema' object has no attribute '_id'
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\vehalloc\repos\driver_repo.py", line 12, in upsert_driver
+    {"_id": ObjectId(driver._id)},
+                     ^^^^^^^^^^
+  File "C:\Users\User\Desktop\vehalloc\venv\Lib\site-packages\pydantic\main.py", line 856, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'DriverSchema' object has no attribute '_id'
+2024-10-23 02:32:57,156 - [INFO] - Connection Closed Successfully
+2024-10-23 02:33:02,032 - [INFO] - Connected Successfully
+2024-10-23 02:33:02,032 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:33:26,180 - [INFO] - Connection Closed Successfully
+2024-10-23 02:33:27,553 - [INFO] - Connected Successfully
+2024-10-23 02:33:27,553 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:33:28,383 - [INFO] - Connected Successfully
+2024-10-23 02:33:28,383 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:33:49,516 - [INFO] - Connection Closed Successfully
+2024-10-23 02:33:50,756 - [INFO] - Connected Successfully
+2024-10-23 02:33:50,756 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:34:07,626 - [INFO] - Connection Closed Successfully
+2024-10-23 02:34:08,881 - [INFO] - Connected Successfully
+2024-10-23 02:34:08,881 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:36:01,397 - [INFO] - Connection Closed Successfully
+2024-10-23 02:36:02,719 - [INFO] - Connected Successfully
+2024-10-23 02:36:02,719 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:36:03,160 - [INFO] - Connection Closed Successfully
+2024-10-23 02:36:04,064 - [INFO] - Connected Successfully
+2024-10-23 02:36:04,064 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:39:25,868 - [INFO] - Connection Closed Successfully
+2024-10-23 02:43:46,774 - [INFO] - Connected Successfully
+2024-10-23 02:43:46,774 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:44:34,789 - [INFO] - Connection Closed Successfully
+2024-10-23 02:44:35,929 - [INFO] - Connected Successfully
+2024-10-23 02:44:35,929 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:44:54,416 - [INFO] - Connection Closed Successfully
+2024-10-23 02:44:57,749 - [INFO] - Connected Successfully
+2024-10-23 02:44:57,749 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:44:58,623 - [INFO] - Connected Successfully
+2024-10-23 02:44:58,623 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:44:59,466 - [INFO] - Connected Successfully
+2024-10-23 02:44:59,466 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:44:59,698 - [INFO] - Connection Closed Successfully
+2024-10-23 02:45:05,972 - [INFO] - Connected Successfully
+2024-10-23 02:45:05,972 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:45:37,074 - [INFO] - Connection Closed Successfully
+2024-10-23 02:45:40,001 - [INFO] - Connected Successfully
+2024-10-23 02:45:40,001 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:45:48,487 - [INFO] - Connection Closed Successfully
+2024-10-23 02:45:49,283 - [INFO] - Connected Successfully
+2024-10-23 02:45:49,284 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:47:05,650 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:14,456 - [INFO] - Connected Successfully
+2024-10-23 02:48:14,456 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:48:31,127 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:32,470 - [INFO] - Connected Successfully
+2024-10-23 02:48:32,470 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:48:32,909 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:38,193 - [INFO] - Connected Successfully
+2024-10-23 02:48:38,193 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:48:39,138 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:39,950 - [INFO] - Connected Successfully
+2024-10-23 02:48:39,950 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:48:43,747 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:46,583 - [INFO] - Connected Successfully
+2024-10-23 02:48:46,583 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:48:49,249 - [INFO] - Connection Closed Successfully
+2024-10-23 02:48:50,108 - [INFO] - Connected Successfully
+2024-10-23 02:48:50,108 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:49:56,686 - [INFO] - Connection Closed Successfully
+2024-10-23 02:49:57,852 - [INFO] - Connected Successfully
+2024-10-23 02:49:57,852 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:49:58,678 - [INFO] - Connection Closed Successfully
+2024-10-23 02:49:59,517 - [INFO] - Connected Successfully
+2024-10-23 02:49:59,517 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:51:17,537 - [INFO] - Connection Closed Successfully
+2024-10-23 02:51:18,639 - [INFO] - Connected Successfully
+2024-10-23 02:51:18,639 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:51:19,500 - [INFO] - Connected Successfully
+2024-10-23 02:51:19,500 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 02:51:20,994 - [INFO] - Connection Closed Successfully
+2024-10-23 02:51:21,800 - [INFO] - Connected Successfully
+2024-10-23 02:51:21,800 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:51:16,980 - [INFO] - Connected Successfully
+2024-10-23 06:51:16,981 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:52:06,645 - [INFO] - Connection Closed Successfully
+2024-10-23 06:52:07,895 - [INFO] - Connected Successfully
+2024-10-23 06:52:07,895 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:53:44,380 - [INFO] - Connection Closed Successfully
+2024-10-23 06:53:45,274 - [INFO] - Connected Successfully
+2024-10-23 06:53:45,274 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:53:52,065 - [INFO] - Connection Closed Successfully
+2024-10-23 06:53:54,764 - [INFO] - Connected Successfully
+2024-10-23 06:53:54,764 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:53:55,405 - [INFO] - Connection Closed Successfully
+2024-10-23 06:53:56,276 - [INFO] - Connected Successfully
+2024-10-23 06:53:56,276 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:19,116 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:20,338 - [INFO] - Connected Successfully
+2024-10-23 06:55:20,338 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:24,785 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:27,752 - [INFO] - Connected Successfully
+2024-10-23 06:55:27,752 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:34,644 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:41,771 - [INFO] - Connected Successfully
+2024-10-23 06:55:41,771 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:42,599 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:43,394 - [INFO] - Connected Successfully
+2024-10-23 06:55:43,394 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:49,295 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:52,248 - [INFO] - Connected Successfully
+2024-10-23 06:55:52,248 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:55:55,994 - [INFO] - Connection Closed Successfully
+2024-10-23 06:55:57,705 - [INFO] - Connected Successfully
+2024-10-23 06:55:57,705 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:56:37,745 - [INFO] - Connection Closed Successfully
+2024-10-23 06:56:41,677 - [INFO] - Connected Successfully
+2024-10-23 06:56:41,677 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:56:55,039 - [INFO] - Connection Closed Successfully
+2024-10-23 06:56:55,936 - [INFO] - Connected Successfully
+2024-10-23 06:56:55,937 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:57:06,489 - [INFO] - Connection Closed Successfully
+2024-10-23 06:57:07,393 - [INFO] - Connected Successfully
+2024-10-23 06:57:07,393 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:57:13,205 - [INFO] - Connection Closed Successfully
+2024-10-23 06:57:34,340 - [INFO] - Connected Successfully
+2024-10-23 06:57:34,340 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:31,351 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:32,270 - [INFO] - Connected Successfully
+2024-10-23 06:58:32,270 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:33,425 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:34,254 - [INFO] - Connected Successfully
+2024-10-23 06:58:34,254 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:35,319 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:36,171 - [INFO] - Connected Successfully
+2024-10-23 06:58:36,171 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:39,594 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:40,394 - [INFO] - Connected Successfully
+2024-10-23 06:58:40,394 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:45,315 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:46,215 - [INFO] - Connected Successfully
+2024-10-23 06:58:46,215 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:49,298 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:50,139 - [INFO] - Connected Successfully
+2024-10-23 06:58:50,139 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:55,180 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:56,034 - [INFO] - Connected Successfully
+2024-10-23 06:58:56,034 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 06:58:58,036 - [INFO] - Connection Closed Successfully
+2024-10-23 06:58:58,845 - [INFO] - Connected Successfully
+2024-10-23 06:58:58,846 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:00:09,166 - [INFO] - Connection Closed Successfully
+2024-10-23 07:00:10,356 - [INFO] - Connected Successfully
+2024-10-23 07:00:10,356 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:00:11,115 - [INFO] - Connected Successfully
+2024-10-23 07:00:11,115 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:00:42,645 - [INFO] - Connection Closed Successfully
+2024-10-23 07:00:43,504 - [INFO] - Connected Successfully
+2024-10-23 07:00:43,504 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:00:44,344 - [INFO] - Connection Closed Successfully
+2024-10-23 07:00:45,127 - [INFO] - Connected Successfully
+2024-10-23 07:00:45,134 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:01:20,685 - [INFO] - Connection Closed Successfully
+2024-10-23 07:01:21,565 - [INFO] - Connected Successfully
+2024-10-23 07:01:21,565 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:01:33,706 - [INFO] - Connection Closed Successfully
+2024-10-23 07:01:34,442 - [INFO] - Connected Successfully
+2024-10-23 07:01:34,442 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:02:01,366 - [INFO] - Connection Closed Successfully
+2024-10-23 07:02:02,210 - [INFO] - Connected Successfully
+2024-10-23 07:02:02,211 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:02:25,734 - [INFO] - Connection Closed Successfully
+2024-10-23 07:02:26,687 - [INFO] - Connected Successfully
+2024-10-23 07:02:26,687 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:02:57,807 - [INFO] - Connection Closed Successfully
+2024-10-23 07:02:58,709 - [INFO] - Connected Successfully
+2024-10-23 07:02:58,709 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:26,025 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:26,890 - [INFO] - Connected Successfully
+2024-10-23 07:04:26,892 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:39,380 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:40,315 - [INFO] - Connected Successfully
+2024-10-23 07:04:40,316 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:40,625 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:41,398 - [INFO] - Connected Successfully
+2024-10-23 07:04:41,398 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:42,671 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:43,470 - [INFO] - Connected Successfully
+2024-10-23 07:04:43,470 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:46,334 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:47,180 - [INFO] - Connected Successfully
+2024-10-23 07:04:47,180 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:49,984 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:50,768 - [INFO] - Connected Successfully
+2024-10-23 07:04:50,768 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:04:58,486 - [INFO] - Connection Closed Successfully
+2024-10-23 07:04:59,249 - [INFO] - Connected Successfully
+2024-10-23 07:04:59,249 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:05:02,575 - [INFO] - Connection Closed Successfully
+2024-10-23 07:05:05,616 - [INFO] - Connected Successfully
+2024-10-23 07:05:05,616 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:05:11,179 - [INFO] - Connection Closed Successfully
+2024-10-23 07:05:12,046 - [INFO] - Connected Successfully
+2024-10-23 07:05:12,046 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:05:41,487 - [ERROR] - Error inserting employee: cannot encode object: <Position.developer: 'developer'>, of type: <enum 'Position'>
+2024-10-23 07:06:19,421 - [INFO] - Connection Closed Successfully
+2024-10-23 07:06:20,801 - [INFO] - Connected Successfully
+2024-10-23 07:06:20,801 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:06:56,715 - [ERROR] - Error inserting employee: cannot encode object: <Position.developer: 'developer'>, of type: <enum 'Position'>
+2024-10-23 07:09:58,227 - [INFO] - Connection Closed Successfully
+2024-10-23 07:09:59,395 - [INFO] - Connected Successfully
+2024-10-23 07:09:59,395 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:10:00,313 - [INFO] - Connected Successfully
+2024-10-23 07:10:00,313 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:10:03,215 - [INFO] - Connection Closed Successfully
+2024-10-23 07:10:05,516 - [INFO] - Connected Successfully
+2024-10-23 07:10:05,516 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 07:14:31,184 - [INFO] - Connection Closed Successfully
+2024-10-23 18:49:15,997 - [INFO] - Connected Successfully
+2024-10-23 18:49:15,997 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:49:48,968 - [INFO] - Connection Closed Successfully
+2024-10-23 18:49:49,937 - [INFO] - Connected Successfully
+2024-10-23 18:49:49,938 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:50:23,231 - [INFO] - Connection Closed Successfully
+2024-10-23 18:50:24,535 - [INFO] - Connected Successfully
+2024-10-23 18:50:24,535 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:50:30,709 - [INFO] - Connection Closed Successfully
+2024-10-23 18:50:31,623 - [INFO] - Connected Successfully
+2024-10-23 18:50:31,623 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:50:33,220 - [INFO] - Connection Closed Successfully
+2024-10-23 18:50:34,019 - [INFO] - Connected Successfully
+2024-10-23 18:50:34,019 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:50:38,757 - [INFO] - Connection Closed Successfully
+2024-10-23 18:50:39,542 - [INFO] - Connected Successfully
+2024-10-23 18:50:39,542 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:50:43,907 - [INFO] - Connection Closed Successfully
+2024-10-23 18:50:44,786 - [INFO] - Connected Successfully
+2024-10-23 18:50:44,786 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:24,184 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:25,077 - [INFO] - Connected Successfully
+2024-10-23 18:53:25,077 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:26,656 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:37,958 - [INFO] - Connected Successfully
+2024-10-23 18:53:37,959 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:42,715 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:43,638 - [INFO] - Connected Successfully
+2024-10-23 18:53:43,638 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:48,045 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:48,859 - [INFO] - Connected Successfully
+2024-10-23 18:53:48,859 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:53,196 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:54,086 - [INFO] - Connected Successfully
+2024-10-23 18:53:54,086 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:53:56,112 - [INFO] - Connection Closed Successfully
+2024-10-23 18:53:56,922 - [INFO] - Connected Successfully
+2024-10-23 18:53:56,922 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:54:04,036 - [INFO] - Connection Closed Successfully
+2024-10-23 18:54:04,926 - [INFO] - Connected Successfully
+2024-10-23 18:54:04,926 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:54:05,895 - [INFO] - Connection Closed Successfully
+2024-10-23 18:54:06,732 - [INFO] - Connected Successfully
+2024-10-23 18:54:06,732 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:54:16,581 - [INFO] - Connection Closed Successfully
+2024-10-23 18:54:21,261 - [INFO] - Connected Successfully
+2024-10-23 18:54:21,261 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:54:30,367 - [INFO] - Connection Closed Successfully
+2024-10-23 18:54:31,206 - [INFO] - Connected Successfully
+2024-10-23 18:54:31,206 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:55:15,427 - [INFO] - Connection Closed Successfully
+2024-10-23 18:55:16,825 - [INFO] - Connected Successfully
+2024-10-23 18:55:16,825 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:56:03,275 - [INFO] - Connection Closed Successfully
+2024-10-23 18:56:04,630 - [INFO] - Connected Successfully
+2024-10-23 18:56:04,630 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:56:05,778 - [INFO] - Connection Closed Successfully
+2024-10-23 18:56:11,005 - [INFO] - Connected Successfully
+2024-10-23 18:56:11,005 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:56:11,770 - [INFO] - Connection Closed Successfully
+2024-10-23 18:56:12,587 - [INFO] - Connected Successfully
+2024-10-23 18:56:12,587 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:56:20,100 - [INFO] - Connection Closed Successfully
+2024-10-23 18:56:20,966 - [INFO] - Connected Successfully
+2024-10-23 18:56:20,966 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:56:34,660 - [INFO] - Connection Closed Successfully
+2024-10-23 18:56:35,478 - [INFO] - Connected Successfully
+2024-10-23 18:56:35,478 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:57:39,003 - [INFO] - Connection Closed Successfully
+2024-10-23 18:57:40,334 - [INFO] - Connected Successfully
+2024-10-23 18:57:40,334 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:57:43,097 - [INFO] - Connection Closed Successfully
+2024-10-23 18:57:44,005 - [INFO] - Connected Successfully
+2024-10-23 18:57:44,005 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:57:50,875 - [INFO] - Connection Closed Successfully
+2024-10-23 18:57:51,770 - [INFO] - Connected Successfully
+2024-10-23 18:57:51,770 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:57:52,306 - [INFO] - Connection Closed Successfully
+2024-10-23 18:57:53,227 - [INFO] - Connected Successfully
+2024-10-23 18:57:53,227 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:58:08,105 - [INFO] - Connection Closed Successfully
+2024-10-23 18:58:08,935 - [INFO] - Connected Successfully
+2024-10-23 18:58:08,935 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:58:12,227 - [INFO] - Connection Closed Successfully
+2024-10-23 18:58:13,072 - [INFO] - Connected Successfully
+2024-10-23 18:58:13,072 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 18:58:25,611 - [INFO] - Connection Closed Successfully
+2024-10-23 18:58:26,515 - [INFO] - Connected Successfully
+2024-10-23 18:58:26,515 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 19:24:28,523 - [INFO] - Connection Closed Successfully
+2024-10-23 14:05:06,307 - [INFO] - Connected Successfully
+2024-10-23 14:05:06,308 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:06:32,507 - [INFO] - Connected Successfully
+2024-10-23 14:06:32,508 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:43:49,640 - [INFO] - Connected Successfully
+2024-10-23 14:43:49,641 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:45:32,511 - [INFO] - Connected Successfully
+2024-10-23 14:45:32,512 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:52:01,592 - [INFO] - Connected Successfully
+2024-10-23 14:52:01,592 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:54:33,220 - [INFO] - Connected Successfully
+2024-10-23 14:54:33,220 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:55:48,613 - [INFO] - Connected Successfully
+2024-10-23 14:55:48,613 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:57:14,484 - [INFO] - Connected Successfully
+2024-10-23 14:57:14,484 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 14:59:09,581 - [INFO] - Connected Successfully
+2024-10-23 14:59:09,582 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:04:53,514 - [INFO] - Connected Successfully
+2024-10-23 15:04:53,514 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:07:41,389 - [INFO] - Connected Successfully
+2024-10-23 15:07:41,390 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:09:36,420 - [INFO] - Connected Successfully
+2024-10-23 15:09:36,420 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:14:16,785 - [INFO] - Connected Successfully
+2024-10-23 15:14:16,785 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:17:03,441 - [INFO] - Connected Successfully
+2024-10-23 15:17:03,442 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:18:18,439 - [INFO] - Connected Successfully
+2024-10-23 15:18:18,439 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:20:07,292 - [INFO] - Connected Successfully
+2024-10-23 15:20:07,292 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:25:26,381 - [INFO] - Connected Successfully
+2024-10-23 15:25:26,381 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 15:29:05,515 - [INFO] - Connected Successfully
+2024-10-23 15:29:05,516 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 21:39:03,631 - [INFO] - Connected Successfully
+2024-10-23 21:39:03,631 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 21:39:21,386 - [INFO] - Connection Closed Successfully
+2024-10-23 16:26:18,076 - [INFO] - Connected Successfully
+2024-10-23 16:26:18,076 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:32:06,402 - [INFO] - Connection Closed Successfully
+2024-10-23 16:32:07,298 - [INFO] - Connected Successfully
+2024-10-23 16:32:07,298 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:32:18,122 - [INFO] - Connection Closed Successfully
+2024-10-23 16:32:18,710 - [INFO] - Connected Successfully
+2024-10-23 16:32:18,710 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:32:56,993 - [INFO] - Connection Closed Successfully
+2024-10-23 16:32:57,559 - [INFO] - Connected Successfully
+2024-10-23 16:32:57,559 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:33:14,796 - [INFO] - Connection Closed Successfully
+2024-10-23 16:33:15,813 - [INFO] - Connected Successfully
+2024-10-23 16:33:15,813 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:35:28,576 - [INFO] - Connected Successfully
+2024-10-23 16:35:28,576 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:38:42,478 - [INFO] - Connected Successfully
+2024-10-23 16:38:42,478 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:39:27,923 - [ERROR] - Error inserting driver: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-10-23 16:39:42,060 - [ERROR] - Error getting drivers: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-10-23 16:41:09,829 - [INFO] - Connected Successfully
+2024-10-23 16:41:09,829 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 16:41:32,233 - [ERROR] - Error inserting driver: Authentication failed., full error: {'ok': 0.0, 'errmsg': 'Authentication failed.', 'code': 18, 'codeName': 'AuthenticationFailed'}
+2024-10-23 16:45:07,943 - [INFO] - Connected Successfully
+2024-10-23 16:45:07,943 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 22:56:58,183 - [INFO] - Connected Successfully
+2024-10-23 22:56:58,183 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 22:58:09,574 - [ERROR] - Error inserting vehicle: cannot encode object: <VehicleType.car: 'car'>, of type: <enum 'VehicleType'>
+2024-10-23 23:01:10,762 - [ERROR] - Error inserting vehicle: cannot encode object: <VehicleType.car: 'car'>, of type: <enum 'VehicleType'>
+2024-10-23 23:01:48,455 - [INFO] - Connection Closed Successfully
+2024-10-23 23:01:49,895 - [INFO] - Connected Successfully
+2024-10-23 23:01:49,895 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:01:50,814 - [ERROR] - Error inserting vehicle: cannot encode object: <VehicleType.car: 'car'>, of type: <enum 'VehicleType'>
+2024-10-23 23:02:00,378 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:01,457 - [INFO] - Connected Successfully
+2024-10-23 23:02:01,457 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:15,397 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:16,179 - [INFO] - Connected Successfully
+2024-10-23 23:02:16,179 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:17,005 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:17,847 - [INFO] - Connected Successfully
+2024-10-23 23:02:17,847 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:20,285 - [ERROR] - Error inserting vehicle: cannot encode object: <VehicleType.car: 'car'>, of type: <enum 'VehicleType'>
+2024-10-23 23:02:38,029 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:39,046 - [INFO] - Connected Successfully
+2024-10-23 23:02:39,046 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:40,955 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:41,694 - [INFO] - Connected Successfully
+2024-10-23 23:02:41,694 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:45,229 - [INFO] - Connection Closed Successfully
+2024-10-23 23:02:46,062 - [INFO] - Connected Successfully
+2024-10-23 23:02:46,062 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:02:49,411 - [ERROR] - Error inserting vehicle: cannot encode object: <VehicleType.car: 'car'>, of type: <enum 'VehicleType'>
+2024-10-23 23:03:08,309 - [INFO] - Connection Closed Successfully
+2024-10-23 23:03:09,545 - [INFO] - Connected Successfully
+2024-10-23 23:03:09,545 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:03:13,515 - [INFO] - Connection Closed Successfully
+2024-10-23 23:03:14,374 - [INFO] - Connected Successfully
+2024-10-23 23:03:14,374 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:03:33,284 - [INFO] - Connection Closed Successfully
+2024-10-23 23:03:34,067 - [INFO] - Connected Successfully
+2024-10-23 23:03:34,067 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:05:24,845 - [INFO] - Connection Closed Successfully
+2024-10-23 23:05:26,206 - [INFO] - Connected Successfully
+2024-10-23 23:05:26,206 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:05:26,964 - [INFO] - Connected Successfully
+2024-10-23 23:05:26,964 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:20:50,940 - [INFO] - Connection Closed Successfully
+2024-10-23 23:20:54,312 - [INFO] - Connected Successfully
+2024-10-23 23:20:54,312 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-23 23:21:45,935 - [INFO] - Connection Closed Successfully
