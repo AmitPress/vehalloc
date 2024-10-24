@@ -8,5 +8,6 @@ class EnvironmentVariables(BaseSettings):
     REDIS_HOST : str
     class Config:
         env_file = '.env'
+        extra    = 'ignore'
 
 env = EnvironmentVariables()
