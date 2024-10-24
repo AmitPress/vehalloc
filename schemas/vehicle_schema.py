@@ -12,4 +12,4 @@ class VehicleSchema(TimeStampedSchemaMixin):
     name: str
     registration: str 
     vehicle_type: VehicleType
-    driver_id: str # this will be filled when driver is just created above in the same context
+    driver_id: str # it has to be unique
