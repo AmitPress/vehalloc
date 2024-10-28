@@ -1,0 +1,168 @@
+2024-10-25 10:36:17,931 - [INFO] - Connected Successfully
+2024-10-25 10:36:17,931 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:37:30,490 - [ERROR] - Employee or vehicle does not exist
+2024-10-25 10:37:30,491 - [ERROR] - Error inserting allocation: 400: Employee or vehicle does not exist
+2024-10-25 10:38:56,258 - [INFO] - Connection Closed Successfully
+2024-10-25 10:38:57,590 - [INFO] - Connected Successfully
+2024-10-25 10:38:57,590 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:39:18,814 - [INFO] - Connection Closed Successfully
+2024-10-25 10:39:20,118 - [INFO] - Connected Successfully
+2024-10-25 10:39:20,124 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:40:40,980 - [INFO] - Connection Closed Successfully
+2024-10-25 10:40:42,408 - [INFO] - Connected Successfully
+2024-10-25 10:40:42,408 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:40:42,941 - [INFO] - Connection Closed Successfully
+2024-10-25 10:40:43,813 - [INFO] - Connected Successfully
+2024-10-25 10:40:43,813 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:41:02,569 - [ERROR] - Employee or vehicle does not exist
+2024-10-25 10:41:02,569 - [ERROR] - Error inserting allocation: 400: Employee or vehicle does not exist
+2024-10-25 10:42:18,529 - [INFO] - Connection Closed Successfully
+2024-10-25 10:42:19,865 - [INFO] - Connected Successfully
+2024-10-25 10:42:19,865 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:42:23,773 - [INFO] - Connection Closed Successfully
+2024-10-25 10:42:24,681 - [INFO] - Connected Successfully
+2024-10-25 10:42:24,681 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:42:25,752 - [INFO] - Connection Closed Successfully
+2024-10-25 10:42:26,638 - [INFO] - Connected Successfully
+2024-10-25 10:42:26,638 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:42:27,720 - [INFO] - Connection Closed Successfully
+2024-10-25 10:42:28,544 - [INFO] - Connected Successfully
+2024-10-25 10:42:28,544 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:42:31,822 - [ERROR] - Employee or vehicle does not exist
+2024-10-25 10:42:31,822 - [ERROR] - Error inserting allocation: 400: Employee or vehicle does not exist
+2024-10-25 10:42:55,532 - [INFO] - Connection Closed Successfully
+2024-10-25 10:42:56,720 - [INFO] - Connected Successfully
+2024-10-25 10:42:56,720 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:04,910 - [INFO] - Connection Closed Successfully
+2024-10-25 10:43:05,706 - [INFO] - Connected Successfully
+2024-10-25 10:43:05,706 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:10,174 - [INFO] - Connection Closed Successfully
+2024-10-25 10:43:10,990 - [INFO] - Connected Successfully
+2024-10-25 10:43:10,990 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:13,975 - [INFO] - Connection Closed Successfully
+2024-10-25 10:43:14,799 - [INFO] - Connected Successfully
+2024-10-25 10:43:14,799 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:22,713 - [INFO] - Connection Closed Successfully
+2024-10-25 10:43:23,589 - [INFO] - Connected Successfully
+2024-10-25 10:43:23,589 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:24,200 - [INFO] - Connection Closed Successfully
+2024-10-25 10:43:27,796 - [INFO] - Connected Successfully
+2024-10-25 10:43:27,796 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:43:30,835 - [INFO] - Connection Closed Successfully
+2024-10-25 10:44:05,073 - [INFO] - Connected Successfully
+2024-10-25 10:44:05,073 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:44:11,781 - [ERROR] - Error inserting allocation: Error 11001 connecting to localhost:6379:6379. getaddrinfo failed.
+2024-10-25 10:45:41,114 - [ERROR] - Error inserting allocation: Error 11001 connecting to localhost:6379:6379. getaddrinfo failed.
+2024-10-25 10:46:07,374 - [ERROR] - Error inserting allocation: Error 11001 connecting to localhost:6379:6379. getaddrinfo failed.
+2024-10-25 10:47:15,062 - [INFO] - Connection Closed Successfully
+2024-10-25 10:47:40,789 - [INFO] - Connected Successfully
+2024-10-25 10:47:40,789 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:48:20,989 - [ERROR] - Error inserting allocation: 'AsyncIOMotorLatentCommandCursor' object is not iterable
+2024-10-25 10:49:06,472 - [INFO] - Connection Closed Successfully
+2024-10-25 10:49:16,345 - [INFO] - Connected Successfully
+2024-10-25 10:49:16,345 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:49:38,294 - [ERROR] - Error inserting allocation: cannot encode object: <coroutine object get_vehicle_from_cache_or_db at 0x000002945A27D740>, of type: <class 'coroutine'>
+2024-10-25 10:51:00,923 - [INFO] - Connection Closed Successfully
+2024-10-25 10:51:02,378 - [INFO] - Connected Successfully
+2024-10-25 10:51:02,378 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 10:51:06,250 - [ERROR] - Error inserting allocation: object AsyncIOMotorLatentCommandCursor can't be used in 'await' expression
+2024-10-25 11:06:54,036 - [INFO] - Connection Closed Successfully
+2024-10-25 11:06:55,377 - [INFO] - Connected Successfully
+2024-10-25 11:06:55,377 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:06:56,225 - [INFO] - Connected Successfully
+2024-10-25 11:06:56,225 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:06:57,171 - [INFO] - Connection Closed Successfully
+2024-10-25 11:06:58,020 - [INFO] - Connected Successfully
+2024-10-25 11:06:58,020 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:07:01,742 - [INFO] - Connection Closed Successfully
+2024-10-25 11:07:02,601 - [INFO] - Connected Successfully
+2024-10-25 11:07:02,601 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:07:19,512 - [ERROR] - Error inserting allocation: cannot encode object: datetime.date(2024, 10, 26), of type: <class 'datetime.date'>
+2024-10-25 11:09:13,761 - [INFO] - Connection Closed Successfully
+2024-10-25 11:09:15,172 - [INFO] - Connected Successfully
+2024-10-25 11:09:15,172 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:09:20,953 - [ERROR] - Error inserting allocation: cannot encode object: datetime.date(2024, 10, 26), of type: <class 'datetime.date'>
+2024-10-25 11:10:29,229 - [INFO] - Connection Closed Successfully
+2024-10-25 11:10:30,629 - [INFO] - Connected Successfully
+2024-10-25 11:10:30,629 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:10:37,652 - [INFO] - Connection Closed Successfully
+2024-10-25 11:10:38,513 - [INFO] - Connected Successfully
+2024-10-25 11:10:38,513 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:11:01,942 - [ERROR] - Error inserting allocation: cannot encode object: datetime.date(2024, 10, 26), of type: <class 'datetime.date'>
+2024-10-25 11:11:11,868 - [INFO] - Connection Closed Successfully
+2024-10-25 11:11:13,200 - [INFO] - Connected Successfully
+2024-10-25 11:11:13,200 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:10,431 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:11,389 - [INFO] - Connected Successfully
+2024-10-25 11:13:11,389 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:11,805 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:12,701 - [INFO] - Connected Successfully
+2024-10-25 11:13:12,702 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:16,156 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:17,050 - [INFO] - Connected Successfully
+2024-10-25 11:13:17,050 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:18,990 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:19,849 - [INFO] - Connected Successfully
+2024-10-25 11:13:19,849 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:22,106 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:22,971 - [INFO] - Connected Successfully
+2024-10-25 11:13:22,971 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:13:26,272 - [ERROR] - Error inserting allocation: cannot encode object: datetime.date(2024, 10, 26), of type: <class 'datetime.date'>
+2024-10-25 11:13:34,955 - [INFO] - Connection Closed Successfully
+2024-10-25 11:13:36,273 - [INFO] - Connected Successfully
+2024-10-25 11:13:36,273 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:01,091 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:01,983 - [INFO] - Connected Successfully
+2024-10-25 11:14:01,983 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:03,483 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:04,309 - [INFO] - Connected Successfully
+2024-10-25 11:14:04,309 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:05,902 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:06,746 - [INFO] - Connected Successfully
+2024-10-25 11:14:06,746 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:23,776 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:24,634 - [INFO] - Connected Successfully
+2024-10-25 11:14:24,635 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:26,039 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:26,952 - [INFO] - Connected Successfully
+2024-10-25 11:14:26,952 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:14:29,486 - [INFO] - Connection Closed Successfully
+2024-10-25 11:14:30,356 - [INFO] - Connected Successfully
+2024-10-25 11:14:30,356 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:03,972 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:04,807 - [INFO] - Connected Successfully
+2024-10-25 11:15:04,807 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:12,057 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:12,888 - [INFO] - Connected Successfully
+2024-10-25 11:15:12,888 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:25,451 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:26,422 - [INFO] - Connected Successfully
+2024-10-25 11:15:26,423 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:29,522 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:36,480 - [INFO] - Connected Successfully
+2024-10-25 11:15:36,480 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:38,515 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:39,370 - [INFO] - Connected Successfully
+2024-10-25 11:15:39,370 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:39,799 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:40,639 - [INFO] - Connected Successfully
+2024-10-25 11:15:40,639 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:41,173 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:42,010 - [INFO] - Connected Successfully
+2024-10-25 11:15:42,010 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:15:44,161 - [INFO] - Connection Closed Successfully
+2024-10-25 11:15:44,995 - [INFO] - Connected Successfully
+2024-10-25 11:15:44,995 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:17:02,669 - [INFO] - Connection Closed Successfully
+2024-10-25 11:17:03,960 - [INFO] - Connected Successfully
+2024-10-25 11:17:03,960 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:18:01,611 - [INFO] - Connection Closed Successfully
+2024-10-25 11:18:02,495 - [INFO] - Connected Successfully
+2024-10-25 11:18:02,495 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:18:05,161 - [INFO] - Connection Closed Successfully
+2024-10-25 11:18:06,058 - [INFO] - Connected Successfully
+2024-10-25 11:18:06,058 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:18:09,539 - [INFO] - Connection Closed Successfully
+2024-10-25 11:18:10,421 - [INFO] - Connected Successfully
+2024-10-25 11:18:10,421 - [INFO] - Database[vehalloc] Created Successfully
+2024-10-25 11:18:29,752 - [INFO] - Connection Closed Successfully
